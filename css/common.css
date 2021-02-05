@@ -705,7 +705,7 @@ input[type=checkbox] {display:none}
 #footer .button_tip_toggle.on span:after {background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABrSURBVBhXXcqxCkBQGIbhQ7kDoywGg8FtuBODCzDZT0qZLVIkZbZI5G7chfeczil56+kf/s+RUopPPjZ4yPBA55qrCnBjwYALIXR2GEE9WjTm1jgRQw8THKjQwdajxI5UDUcUmPFvRS6EmF4f7xIVsncdqQAAAABJRU5ErkJggg==") 0 0 no-repeat; width: 10px; height: 5px}
 #footer table {margin-top: 10px;}
 #footer table tr td {vertical-align: top}
-#footer table tr td:first-child {width: 110px;padding-right: 20px;}
+#footer table tr td:first-child {width: 115px; padding-right: 18px;}
 #footer table tr:nth-child(3) td {line-height: 16px}
 #footer table tr:nth-child(4) a span {text-decoration: underline!important; color: #888; font-weight:500}
 #footer .footer_bottom {margin-top: 25px}
